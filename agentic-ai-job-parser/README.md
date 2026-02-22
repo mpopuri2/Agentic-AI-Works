@@ -186,17 +186,17 @@ http://localhost:8501
 
 ### Basic Webpage
 <p align="center">
-  <img src="results/start_page.heic" width="800">
+  <img src="results/start_page.png" width="800">
 </p>
 
 ### Jobs Dashboard
 <p align="center">
-  <img src="results/overview_page.heic" width="800">
+  <img src="results/overview_page.png" width="800">
 </p>
 
 ### Job Details Page
 <p align="center">
-  <img src="results/job_description.heic" width="800">
+  <img src="results/job_description.png" width="800">
 </p>
 
 ## 📸 UI Highlights
