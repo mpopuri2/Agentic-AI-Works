@@ -72,6 +72,7 @@ Prevents duplicate applications.
 agentic-ai-job-platform/
 │
 ├── app.py
+├── web_page_app.py
 │
 ├── utils/
 │   └── job_search_tool.py
@@ -171,7 +172,7 @@ Initialize table by running your database module.
 
 ### 6. Run App
 ```
-streamlit run app.py
+streamlit run web_page_app.py
 ```
 
 Open:
@@ -180,6 +181,23 @@ http://localhost:8501
 ```
 
 ---
+
+## Application Screenshots
+
+### Basic Webpage
+<p align="center">
+  <img src="results/start_page.heic" width="800">
+</p>
+
+### Jobs Dashboard
+<p align="center">
+  <img src="results/overview_page.heic" width="800">
+</p>
+
+### Job Details Page
+<p align="center">
+  <img src="results/job_description.heic" width="800">
+</p>
 
 ## 📸 UI Highlights
 - Clean job cards
