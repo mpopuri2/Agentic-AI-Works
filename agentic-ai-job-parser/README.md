@@ -191,7 +191,7 @@ http://localhost:8501
 
 ### Jobs Dashboard
 <p align="center">
-  <img src="results/overview_page.png" width="800">
+  <img src="results/overveiw_page.png" width="800">
 </p>
 
 ### Job Details Page
