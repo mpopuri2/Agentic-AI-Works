@@ -1,0 +1,51 @@
+Manjunath Popuri
++1 (917) 815-9580 | manjunathpopuri2@gmail.com | Manhasset Hills, NY - 11040 (Open to relocation)
+PROFESSIONAL SUMMARY
+Applied AI/ML Engineer with 3+ years of experience designing and deploying production-scale LLM and machine learning systems on Azure/AWS, specializing in RAG, LLM fine-tuning, and end-to-end MLOps for high-impact enterprise applications.
+
+TECHNICAL SKILLS
+Programming Languages: Python, R, SQL, Java, C, C++
+AI/Machine Learning: LLM Fine-tuning (Phi-3, FLAN-T5, ClinicalBERT), RAG Pipelines, Reinforcement Learning (PPO, DQN), NLP, Computer Vision (CNN, ResNet), Time-Series (LSTM, GRU)
+Tools & Frameworks: PyTorch, TensorFlow, Hugging Face, LangChain, ChromaDB, Scikit-learn, OpenCV 
+MLOps & Cloud: AWS, AzureML, GCP, Docker, Kubernetes, MLflow, CI/CD, Pytest 
+Data & Engineering: PySpark, FastAPI, Snowflake, Airflow, Power BI, Tableau
+
+WORK EXPERIENCE
+AI/ML Engineer	JUL 2025 - PRESENT
+Binghamton University - NY, USA
+- LLM Orchestration: Engineered an end-to-end RAG-style QA application using Phi-3 Mini and FLAN-T5, achieving 88% accuracy in domain-specific classification tasks. 
+- Efficiency & Optimization: Fine-tuned models using QLoRA and PEFT, reducing GPU memory footprint by 20% and enabling low-latency inference on AWS SageMaker. 
+- System Design: Built a containerized backend using FastAPI and Docker, supporting real-time inference and interactive reporting via a Streamlit frontend. 
+- Reliability & Governance: Integrated SHAP for model explainability and MLflow for experiment tracking; implemented pytest-based validation to ensure 99.9% service reliability.
+
+Graduate Research Assistant	AUG 2024 - MAY 2025
+Binghamton University - NY, USA
+- Specialized NLP: Developed instruction-tuned transformer pipelines for semantic analysis of MIMIC-III EHR data, reducing manual labeling and text-extraction time by 25%. 
+- Large-Scale Processing: Managed HIPAA-compliant ETL pipelines for 10M+ records of structured and unstructured claims data using PySpark and SQL. 
+- Predictive Modeling: Trained XGBoost and Quantized Phi-3 models to classify complex health insurance claims, optimizing for clinical relevance and HIPAA regulatory standards.
+
+Data Scientist	JUL 2021 - JUN 2023
+Cognizant - Hyderabad, India
+- Risk Engineering: Deployed XGBoost and LSTM models to predict credit default risk for 10M+ customers, improving precision (AUC-ROC) by 8% while maintaining Basel III compliance. 
+- System Optimization: Architected automated feature engineering pipelines using PySpark and SQL, reducing data processing runtime by 20% and enabling near real-time risk scoring. 
+- Performance Monitoring: Enhanced deployed risk models with automated monitoring and Power BI dashboards, reducing manual audits and improving portfolio risk management efficiency by 10%. 
+- Causal Inference: Conducted A/B testing on credit policies, identifying drivers of customer churn, and informing a new risk strategy that supported a 5% increase in acquisition.
+
+PROJECTS
+Gen AI Compliance & Safety Platform (Capstone): Built a RAG-driven system using FLAN-T5 and ClinicalBERT. Implemented a PPO-based RL pipeline with toxicity and compliance rewards to enforce safety standards. Evaluated using ROUGE and QAFactEval metrics. 
+- Tech Stack: Python, PyTorch, Hugging Face, PEFT, LoRA, Chroma, AWS. 
+
+Autonomous Stock Trading Agent (Reinforcement Learning): Developed a DQN-based trading agent achieving +15% return over baselines in backtesting. Exposed via FastAPI for real-time portfolio simulations. 
+- Tech Stack: PyTorch, OpenAI Gym, FastAPI, Docker, AWS. 
+
+Medical Imaging Classification (Computer Vision): Achieved 92% accuracy in classifying X-ray/MRI abnormalities using ResNet and MobileNetV3; deployed via MLflow for real-time predictions. 
+- Tech Stack: TensorFlow, OpenCV, PySpark, MLflow, Docker.
+
+EDUCATION
+Binghamton University, State University of New York, Binghamton, NY, USA 		    	    AUG 2023 - MAY 2025
+Master of Science in Computer Science (AI Specialization) | CGPA : 3.54/4.0
+
+CERTIFICATIONS
+- Generative AI for LLMs
+- AWS Cloud Foundations & Architecting
+- Microsoft Certified: Azure Data Scientist Associate
